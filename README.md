@@ -8,6 +8,8 @@ http://localhost:8080/livelog
 
 to view live logs from your application as they are generated.
 
+## Dashboard
+![LiveLog Dashboard](docs/dashboard.png)
 ---
 
 ## Features
