@@ -51,6 +51,14 @@ LiveLog Dashboard
 
 ## Installation
 
+> Note:
+> LiveLog is currently available from source.
+> Clone the repository and run:
+>
+> mvn clean install
+>
+> before adding the dependency to your application.
+
 ### 1. Add the dependency
 
 ```xml
